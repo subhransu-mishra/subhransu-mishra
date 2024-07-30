@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **work.subhransu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HGAnb3NxyW3dp0fhqr6i7v7fsYz-AsGm/view?usp=sharing](https://drive.google.com/file/d/1HGAnb3NxyW3dp0fhqr6i7v7fsYz-AsGm/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16Z217g6zqt1DpNdjr6fCgQT8ME1gJYBF/view?usp=drive_link](https://drive.google.com/file/d/16Z217g6zqt1DpNdjr6fCgQT8ME1gJYBF/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
