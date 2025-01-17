@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **work.subhransu@gmail.com**
 
-<a href="https://drive.google.com/file/d/1cgPB1numo89wkpn6Kyh4jzgY7EbfFON9/view?usp=drive_link">Resume</a>
+<h4>Check resume </h4><a href="https://drive.google.com/file/d/1cgPB1numo89wkpn6Kyh4jzgY7EbfFON9/view?usp=drive_link">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
