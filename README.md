@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **work.subhransu@gmail.com**
 
-<h4>Check resume </h4><a href="https://drive.google.com/file/d/1vGA0U7712X3ZTxSvv5Y6e7RPH4RLzTkN/view">here</a>
+<h4>Check resume </h4><a href="https://drive.google.com/file/d/185ugAZBQ5fm5LfJVDPBe_9me3DQsLoBZ/view?usp=sharing">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/subhransu-sekhar-mishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhransu sekhar mishra" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/24395762/subhransu-sekhar-mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="subhransu sekhar mishra" height="30" width="40" /></a>
 <a href="https://www.facebook.com/subhransu.mishra.3367/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subhransu sekhar mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/subhransu.__45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhransu.__45" height="30" width="40" /></a>
+<a href="https://www.instagram.com/subhransumishra_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subhransu.__45" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
