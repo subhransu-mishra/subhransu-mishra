@@ -1,5 +1,23 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building full-stack web applications using the MERN stack, including projects like an online IDE, e-commerce website, and social platforms for students.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects, innovative web apps, and AI-integrated tools that can create real-world impact.<br><br>👐 I’m looking for help with<br>Exploring advanced backend architectures, system design, and optimizing large-scale applications.<br><br>🌱 I’m currently learning<br>Cloud deployment (AWS, Render), advanced Data Structures & Algorithms for problem-solving, and integrating AI APIs into web apps.<br><br>💬 Ask me about<br>Full-stack development, React.js, Node.js, MongoDB, authentication systems, and building scalable apps.<br><br>⚡ Fun fact<br>I started as a frontend developer, but now I love solving backend challenges just as much as designing sleek UIs!
+
+- 🔭 **Currently building**  
+  Sleek, scalable web apps with the **MERN stack** — blending creativity with performance.  
+
+- 🤝 **Open to**  
+  Collaborating on bold ideas, open-source projects, and anything that pushes the boundaries of tech.  
+
+- 🧩 **Diving deeper into**  
+  Backend architectures, system design, and making apps run smooth at scale.  
+
+- 🌱 **Always learning**  
+  Cloud deployment, advanced algorithms, and the art of weaving **AI into everyday apps**.  
+
+- 💬 **Let’s talk about**  
+  Full-stack dev, scalable systems, or how to turn a raw idea into a polished product.  
+
+- ⚡ **Fun fact**  
+  Started out styling buttons… now I architect systems. Growth looks good on code ✨  
+
 
 
 ## 🌐 Socials:
